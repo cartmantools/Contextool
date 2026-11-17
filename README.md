@@ -42,12 +42,12 @@ Press one shortcut anywhere and get a menu that looks like the native Windows co
 
 ### Option 1: with AutoHotkey (recommended)
 1. Install [AutoHotkey v2](https://www.autohotkey.com/)
-2. Download `Contextool.ahk` from the [latest release](../../releases/latest)
+2. Download `Contextool.ahk`
 3. Double-click it. A tray icon appears.
-4. Press `Ctrl+Shift+F9` to open the menu
+4. Press `Ctrl+right click` to open the menu or change the setting to set your own shortcut
 
 ### Option 2: standalone `.exe`
-Download `Contextool.exe` from the [releases page](../../releases/latest). No AutoHotkey needed.
+Download `Contextool.exe`. No AutoHotkey needed.
 > Windows SmartScreen or your antivirus may warn about unsigned AutoHotkey executables. The full source code is in this repository so you can check it or compile it yourself.
 
 ### Start with Windows
