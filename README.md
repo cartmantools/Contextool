@@ -4,6 +4,8 @@
 Press one shortcut anywhere and get a menu that looks like the native Windows context menu (and follows your dark/light theme) with your symbols, tools, apps, folders and text snippets one click away.
 
 --
+![contextool Preview](contextool.png)
+![contextool Preview](settings.png)
 
 ## Features
 
