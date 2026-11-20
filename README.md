@@ -1,6 +1,6 @@
 # Contextool
 
-**A free, customizable pop-up menu for Windows 11, built with AutoHotkey.**
+**A free, customizable pop-up menu for Windows 11, built with claude for [AutoHotkey v2](https://www.autohotkey.com/).**
 Press one shortcut anywhere and get a menu that looks like the native Windows context menu (and follows your dark/light theme) with your symbols, tools, apps, folders and text snippets one click away.
 
 --
